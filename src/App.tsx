@@ -70,7 +70,7 @@ const circleOptions = {
 
 const MyComponent = () => {
   return (
-    <LoadScript googleMapsApiKey="AIzaSyCGElIAsXCbrQtijDL-o6508cB2iFsgI9U">
+    <LoadScript googleMapsApiKey="apikey">
       <GoogleMap
         mapContainerStyle={containerStyle}
         center={center}
